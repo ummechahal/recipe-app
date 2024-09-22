@@ -1,0 +1,31 @@
+.hr {
+  width: 725px;
+  height: 0px;
+  top: 618px;
+  left: 455px;
+  gap: 0px;
+  border: 1px 0px 0px 0px;
+  opacity: 0px;
+  border: 1px solid #d0c5c580;
+  box-shadow: 0px 4px 4px 0px #00000040 inset;
+}
+
+.menu {
+  display: flex;
+  align-items: center;
+  gap: 6rem;
+  padding: 1rem;
+}
+
+.menu li {
+  list-style: none;
+}
+.menu li a {
+  text-decoration: none;
+  font-family: Montserrat;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 24.38px;
+  text-align: center;
+  color: #84bd00;
+}

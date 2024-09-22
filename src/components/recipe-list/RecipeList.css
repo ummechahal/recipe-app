@@ -1,0 +1,9 @@
+.recipe__list {
+  padding: 2rem;
+  max-width: 1500px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-row-gap: 3rem;
+  justify-items: center;
+  align-items: center;
+}

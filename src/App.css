@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 62.5%;
+  font-weight: 700;
+}
+
+.app {
+  display: grid;
+  grid-template-rows: 80vh auto auto;
+}
